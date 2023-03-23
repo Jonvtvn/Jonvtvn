@@ -1,4 +1,4 @@
-# console.log('Hello! <img src="https://user-images.githubusercontent.com/80714414/192123542-12ba0052-f91b-4141-bd1d-c32c08fc5350.gif" width="30" height="30" />, I'm Jonatan')
+# console.log('Hello! <img src="https://user-images.githubusercontent.com/80714414/192123542-12ba0052-f91b-4141-bd1d-c32c08fc5350.gif" width="30" height="30" />, Im Jonatan')
 I'm a computer engineering student and I like programming, photography, design and playing...
 
 
