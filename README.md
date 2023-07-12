@@ -1,5 +1,5 @@
 <p align="center">
-**console.log('Hello! <img src="https://user-images.githubusercontent.com/80714414/192123542-12ba0052-f91b-4141-bd1d-c32c08fc5350.gif" width="30" height="30" />')**
+console.log('Hello! <img src="https://user-images.githubusercontent.com/80714414/192123542-12ba0052-f91b-4141-bd1d-c32c08fc5350.gif" width="30" height="30" />')
 </p>
 
 <hr/>
