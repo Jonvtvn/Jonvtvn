@@ -44,6 +44,3 @@
 
 <a href="https://www.facebook.com/profile.php?id=100073412066791"><img src="https://user-images.githubusercontent.com/80714414/192123775-2e1411ff-2cd3-4e8a-8a49-73d1cd8cd9b9.svg" width="30" height="30"/></a>
 </p>
-
-<a href="https://www.facebook.com/profile.php?id=100073412066791"><img src="https://user-images.githubusercontent.com/80714414/192123775-2e1411ff-2cd3-4e8a-8a49-73d1cd8cd9b9.svg" width="30" height="30"/></a>
-</div>
