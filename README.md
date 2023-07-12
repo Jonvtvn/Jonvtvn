@@ -5,7 +5,7 @@
 
 - `My name is` **Jonatan Pizarro**
 - `I'm` **21 years old**
-- `I love` **Video Games and Watching Anime** 
+- `I love` **Video Games and Watch Anime** 
 
 <br/>
 <br/>
