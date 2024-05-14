@@ -41,8 +41,8 @@
 <p align="center">
 <a href="https://www.instagram.com/jnv.ispior._/"><img src="https://user-images.githubusercontent.com/80714414/192123753-1f71f078-0120-4db7-8fd1-8b97b2bc2eb2.svg" width="30" height="30"/></a> 
 <a href="https://www.facebook.com/profile.php?id=100073412066791"><img src="https://user-images.githubusercontent.com/80714414/192123775-2e1411ff-2cd3-4e8a-8a49-73d1cd8cd9b9.svg" width="30" height="30"/></a>
-<a href="https://www.linkedin.com/in/jonatan-pizarro-orellana-a021001ba/"><img src="https://cdn-icons-png.flaticon.com/512/61/61109.png?w=360" width="30" height="30"/></a>
-<a href="https://proyect-portfolio-iota.vercel.app/"><img src="https://raw.githubusercontent.com/Jonvtvn/Other/main/Logo-jp-black.png" width="33" height="33"/></a>
+<a href="https://www.linkedin.com/in/jonatan-pizarro-orellana-a021001ba/"><img src="https://cdn-icons-png.flaticon.com/512/61/61109.png?w=360" width="30" height="30"></a>
+<a href="https://proyect-portfolio-iota.vercel.app/"><img src="https://raw.githubusercontent.com/Jonvtvn/Other/main/Logo-jp-black.png" width="33" height="33"/><span>page</span></a>
 </p>
 
 
