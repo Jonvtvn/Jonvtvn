@@ -3,9 +3,9 @@
 
 ### 👋 About Me
 
-- 🎂 **Age:** 23 years young  
-- 🎮 **Passion:** Video Games & Anime lover  
-- 💻 **Favorite language:** TypeScript (and always learning!)  
+- 🎂 **Age:** 23 years old
+- 🎮 **Passion:** Video Games & Anime
+- 💻 **Favorite language:** TypeScript
 - 🚀 Always exploring new tech and building cool stuff.
 
 </br>
