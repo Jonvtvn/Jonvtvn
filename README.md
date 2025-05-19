@@ -40,6 +40,10 @@
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-181717?logo=github&logoColor=white" />
 </p>
 
+#### Containerization & Orchestration  
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+</p>
 </br>
 
 ### 🌐 Let's Connect!
