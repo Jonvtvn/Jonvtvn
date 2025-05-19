@@ -1,6 +1,5 @@
 # Hello! <img src="https://user-images.githubusercontent.com/80714414/192123542-12ba0052-f91b-4141-bd1d-c32c08fc5350.gif" width="30" height="30" /> I'm **Jonatan Pizarro**
 
----
 
 ### 👋 About Me
 
@@ -9,7 +8,6 @@
 - 💻 **Favorite language:** TypeScript (and always learning!)  
 - 🚀 Always exploring new tech and building cool stuff.
 
----
 
 ### 🛠️ Skills & Tools
 
@@ -35,7 +33,6 @@
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white" />
 </p>
 
----
 
 ### 🌐 Let's Connect!
 
@@ -53,11 +50,9 @@
   </a>
 </p>
 
----
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
----
 
 Thanks for stopping by! Feel free to explore my repos and connect. 🚀
 
