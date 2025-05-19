@@ -44,20 +44,13 @@
   <a href="https://www.instagram.com/jnv.ispior._/" target="_blank" rel="noopener noreferrer" title="Instagram">
     <img src="https://user-images.githubusercontent.com/80714414/192123753-1f71f078-0120-4db7-8fd1-8b97b2bc2eb2.svg" width="35" height="35" alt="Instagram" />
   </a>  
-  &nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100073412066791" target="_blank" rel="noopener noreferrer" title="Facebook">
     <img src="https://user-images.githubusercontent.com/80714414/192123775-2e1411ff-2cd3-4e8a-8a49-73d1cd8cd9b9.svg" width="35" height="35" alt="Facebook" />
   </a>  
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jonatan-isaac-pizarro-orellana-a021001ba/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
     <img src="https://cdn-icons-png.flaticon.com/512/61/61109.png?w=360" width="35" height="35" alt="LinkedIn" />
   </a>
 </p>
 
-</br>
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-
-Thanks for stopping by! Feel free to explore my repos and connect. 🚀
 
