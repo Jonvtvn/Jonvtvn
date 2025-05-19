@@ -2,10 +2,12 @@
 
 
 <hr/>
+
+
+- `My name is` **Jonatan Pizarro**
 - `I'm` **23 years old**
 - `I love` **Video Games and Watch Anime** 
-- `💻 Favorite lang:` **TypeScript** 
-
+- `💻 Favorite lang` **TypeScript** 
 <br/>
 <br/>
 <h1 align="center">Skills</h2>
@@ -42,5 +44,4 @@
 <a href="https://www.linkedin.com/in/jonatan-isaac-pizarro-orellana-a021001ba/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/61/61109.png?w=360" width="30" height="30"></a>
 <!-- <a href="https://proyect-portfolio-iota.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/Jonvtvn/Other/main/Logo-jp-black.png" width="33" height="33"/></a> -->
 </p>
-
 
