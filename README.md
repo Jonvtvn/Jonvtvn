@@ -10,7 +10,7 @@
 
 </br>
 
-### 🛠️ Skills & Tools
+### 🛠️ Skills, Tools & More
 #### Programming Languages  
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />  
@@ -44,8 +44,15 @@
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 </p>
-</br>
 
+#### Design Tools & Creative Skills  
+<p>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white" />  
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF7C00.svg?logo=adobeillustrator&logoColor=white" />  
+  <img alt="Canvas" src="https://img.shields.io/badge/Canvas-ffffff.svg?logo=canvas&logoColor=black" />
+</p>
+
+</br>
 ### 🌐 Let's Connect!
 
 <p>
