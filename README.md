@@ -9,8 +9,9 @@
 - 🚀 Always exploring new tech and building cool stuff.
 
 </br>
+
 ### 🛠️ Skills & Tools
-</br>
+
 #### Programming Languages  
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />  
@@ -22,7 +23,9 @@
   <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" />  
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" />
 </p>
+
 </br>
+
 #### Frameworks & Libraries  
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black" />  
@@ -34,6 +37,7 @@
 </p>
 
 </br>
+
 ### 🌐 Let's Connect!
 
 <p>
@@ -49,6 +53,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/61/61109.png?w=360" width="35" height="35" alt="LinkedIn" />
   </a>
 </p>
+
 </br>
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
