@@ -22,7 +22,6 @@
   <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" />  
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" />
 </p>
-
 #### Frameworks & Libraries  
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black" />  
@@ -32,19 +31,16 @@
   <img alt="NextJS" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white" />  
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white" />
 </p>
-
 #### Cloud & Providers  
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />  
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />  
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-181717?logo=github&logoColor=white" />
 </p>
-
 #### Containerization & Orchestration  
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 </p>
-
 #### Design Tools & Creative Skills  
 <p>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white" />  
@@ -53,6 +49,7 @@
 </p>
 
 </br>
+
 ### 🌐 Let's Connect!
 
 <p>
