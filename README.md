@@ -1,13 +1,11 @@
-#Hello! <img src="https://user-images.githubusercontent.com/80714414/192123542-12ba0052-f91b-4141-bd1d-c32c08fc5350.gif" width="30" height="30" /> Jonatan Pizarro
+**Hello! <img src="https://user-images.githubusercontent.com/80714414/192123542-12ba0052-f91b-4141-bd1d-c32c08fc5350.gif" width="30" height="30" /> Jonatan Pizarro**
 
 
 <hr/>
-
-
-- `My name is` **Jonatan Pizarro**
 - `I'm` **23 years old**
 - `I love` **Video Games and Watch Anime** 
-- `I love` **Video Games and Watch Anime** 
+- `💻 Favorite lang:` **TypeScript** 
+
 <br/>
 <br/>
 <h1 align="center">Skills</h2>
