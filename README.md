@@ -66,9 +66,9 @@
   <a href="https://www.linkedin.com/in/jonatan-isaac-pizarro-orellana-a021001ba/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
     <img src="https://cdn-icons-png.flaticon.com/512/61/61109.png?w=360" width="35" height="35" alt="LinkedIn" />
   </a>
- <a href="https://portfolio2025-jet-seven.vercel.app/" target="_blank" rel="noopener noreferrer" title="Portafolio">
-    <img src="https://raw.githubusercontent.com/Jonvtvn/proyect-portfolio/main/proyect-portfolio/public/Logo-jp-sin-fondo-blanco.png" width="35" height="35" alt="Portafolio" />
-  </a>
+ <a href="https://portfolio2025-jet-seven.vercel.app/" target="_blank" rel="noopener noreferrer" title="Página web personal">
+  <img src="https://cdn-icons-png.flaticon.com/512/1144/1144760.png" width="35" height="35" alt="Usuario" />
+</a>
 </p>
 
 
