@@ -63,7 +63,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Jonvtvn/Jonvtvn/output/snake.svg" alt="Snake animation" />
-
-###
