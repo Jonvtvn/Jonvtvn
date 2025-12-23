@@ -1,75 +1,71 @@
-# Hello! <img src="https://user-images.githubusercontent.com/80714414/192123542-12ba0052-f91b-4141-bd1d-c32c08fc5350.gif" width="30" height="30" /> I'm **Jonatan Pizarro**
+<h1 align="left">Hey 👋 I'm Jonatan Pizarro</h1>
 
+###
 
-### 👋 About Me
-
-- 🎂 **Age:** 23 years old
-- 🎮 **Passion:** Video Games & Anime
-- 💻 **Favorite language:** TypeScript
-- 🚀 Always exploring new tech and building cool stuff.
-
-</br>
-
-### 🛠️ Skills, Tools & More
-#### Programming Languages  
-<p>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />  
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" />  
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />  
-  <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white" />  
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" />  
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" />  
-  <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" />  
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" />
-</p>
-
-#### Frameworks & Libraries  
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black" />  
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white" />  
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" />  
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwindcss-38B2AC.svg?logo=tailwind-css&logoColor=white" />  
-  <img alt="NextJS" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white" />  
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white" />
-</p>
-
-#### Cloud & Providers  
-<p>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />  
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />  
-  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-181717?logo=github&logoColor=white" />
-</p>
-
-#### Containerization & Orchestration  
-<p>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-</p>
-
-#### Design Tools & Creative Skills  
-<p>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white" />  
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF7C00.svg?logo=adobeillustrator&logoColor=white" />  
-  <img alt="Canvas" src="https://img.shields.io/badge/Canvas-ffffff.svg?logo=canvas&logoColor=black" />
-</p>
-
-</br>
-
-### 🌐 Let's Connect!
-
-<p>
-  <a href="https://www.instagram.com/jnv.ispior._/" target="_blank" rel="noopener noreferrer" title="Instagram">
-    <img src="https://user-images.githubusercontent.com/80714414/192123753-1f71f078-0120-4db7-8fd1-8b97b2bc2eb2.svg" width="35" height="35" alt="Instagram" />
-  </a>  
-  <a href="https://www.facebook.com/profile.php?id=100073412066791" target="_blank" rel="noopener noreferrer" title="Facebook">
-    <img src="https://user-images.githubusercontent.com/80714414/192123775-2e1411ff-2cd3-4e8a-8a49-73d1cd8cd9b9.svg" width="35" height="35" alt="Facebook" />
-  </a>  
-  <a href="https://www.linkedin.com/in/jonatan-isaac-pizarro-orellana-a021001ba/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-    <img src="https://cdn-icons-png.flaticon.com/512/61/61109.png?w=360" width="35" height="35" alt="LinkedIn" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/jonvtvn/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
- <a href="https://jonatanpizarroportfolio.vercel.app/" target="_blank" rel="noopener noreferrer" title="Página web personal">
-  <img src="https://cdn-icons-png.flaticon.com/512/1144/1144760.png" width="35" height="35" alt="Usuario" />
-</a>
-</p>
+  <a href="https://www.instagram.com/itzjnv.404/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://jonatanpizarroportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+  </a>
+</div>
 
+###
 
+<h3 align="left">👋 About Me</h3>
 
+###
+
+<h6 align="left">🎂 Age: 23 years old<br>🎮 Passion: Video Games & Anime<br>💻 Favorite language: TypeScript<br>🚀 Always exploring new tech and building cool stuff.</h6>
+
+###
+
+<br clear="both">
+
+<h3 align="left">🛠️ Skills, Tools & More</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Jonvtvn/Jonvtvn/output/snake.svg" alt="Snake animation" />
+
+###
